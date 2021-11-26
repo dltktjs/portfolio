@@ -2,7 +2,7 @@
 
 .wrap{
     height:60vh;
-    background-image:linear-gradient(45deg,blue,#00ff00);
+    background-image:linear-gradient(45deg,rgb(189, 200, 200),rgb(208,221,208));
 }
 h4{
     position:absolute;

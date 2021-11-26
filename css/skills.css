@@ -7,7 +7,10 @@
  .section.skill .img-box img{width:60%;}
  .section.skill .sub-tit{margin-bottom:0;color:#ddd;}
  .section.skill .sub-tit + p{color:#ddd;}
-
+ .section.skill .container{background-image: linear-gradient(rgb(167, 167, 236),rgb(0, 0, 0));}
+ .section.skill {
+    background-image: linear-gradient(rgb(167,167,236), rgb(0, 0, 0));
+ }
  @media(min-width:768px){
     .section.skill article{width:31.59340659340659%;} 
  }

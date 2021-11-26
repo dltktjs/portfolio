@@ -1,7 +1,7 @@
 @charset 'utf-8';
 
 .footer{
-    background-color:#000;
+    background-color:rgb(0, 0, 0);
 }
 .footer .container{
     padding-top:1em;
