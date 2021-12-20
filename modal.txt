@@ -11,7 +11,7 @@
     공지사항 및 주민센터에서 운영하는 프로그램을 확인하도록 배치
     <img src="./images/cheongna/cheongna05.png" alt="청라5">
     주소등이 입력된 푸터 배치
-    <img src="./images/cheongna/cheongna06.png" alt="청라6">
+    <img src="./images/cheongna/cheongna06.png" alt="청라6" >
     구상한 이미지 완성
 </article>
 <article class="work-hermes">
